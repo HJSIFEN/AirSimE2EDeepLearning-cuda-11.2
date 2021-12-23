@@ -13,13 +13,13 @@ I want it to be useful to someone else.
 
 
 Make conda enviroment
-'''
- conda create -m "env_name"
- conda env list
- conda activate "env_name"
-'''
+```
+conda create -m "env_name"
+conda env list
+conda activate "env_name"
+```
  
 Install requirement
-'''
- pip install -r reqquirement.txt
-'''
+```
+pip install -r reqquirement.txt
+```
