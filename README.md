@@ -21,6 +21,9 @@ conda env list
 conda activate "env_name"
 ```
  
+ ------------
+ 
+ 
 ### Install requirement
 ```
 pip install -r reqquirement.txt
