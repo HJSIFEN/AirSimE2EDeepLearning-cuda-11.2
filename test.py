@@ -17,7 +17,7 @@ def get_image():
     
     return image_rgba[76:135,0:255,0:3].astype(float)
 
-if name=='__main__':
+if __name__ =='__main__':
     # << Set this to the path of the model >>
     # If None, then the model with the lowest validation loss from training will be used
     MODEL_PATH = None
