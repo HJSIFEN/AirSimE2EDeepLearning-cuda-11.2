@@ -12,15 +12,13 @@ My gpu is RTX3080 and cuda version is 11.2.
 I want it to be useful to someone else.
 
 
-1. Make conda enviroment
+Make conda enviroment
 
  conda create -m "env_name"
-
  conda env list
-
  conda activate "env_name"
 
  
-2. Install requirement
+Install requirement
 
  pip install -r reqquirement.txt
