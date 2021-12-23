@@ -10,6 +10,7 @@ So I tried many things and it worked with this cuda, python, tensorboard, h5py, 
 My gpu is RTX3080 and cuda version is 11.2.
 
 I want it to be useful to someone else.
+------------
 
 
 ### Make conda enviroment
